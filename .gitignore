@@ -9,3 +9,5 @@ source/*
 *.cmake
 *.obj
 .idea/*
+*.bin
+/cmake-build-debug/*
