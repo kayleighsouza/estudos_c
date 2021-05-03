@@ -1,3 +1,6 @@
 *.exe
-Debug/source/Chatbot.o
-source/Chatbot.c
+Debug/*
+source/*
+*.xml
+*.txt
+*.make
