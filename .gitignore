@@ -4,3 +4,7 @@ source/*
 *.xml
 *.txt
 *.make
+*.txt
+*.rsp
+*.cmake
+*.obj
