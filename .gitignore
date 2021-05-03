@@ -8,3 +8,4 @@ source/*
 *.rsp
 *.cmake
 *.obj
+.idea/*
